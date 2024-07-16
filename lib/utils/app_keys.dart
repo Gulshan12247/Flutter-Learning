@@ -1,0 +1,33 @@
+class AppKeys {
+  static const String id = 'id';
+  static const String userId = 'userId';
+  static const String imageprofile = 'imageprofile';
+  static const String token = 'token';
+  static const String profile_pic = 'profile_pic';
+  static const String employee_id = 'employee_id';
+  static const String name = 'name';
+  static const String email = 'email';
+  static const String mobile = 'mobile';
+  static const String BASE_URL = 'http://18.119.37.224/api/';
+  static const String history = 'history';
+  static const String update_profile = 'update';
+  static const String checkin = 'checkinuser';
+  static const String Contactus = 'contact_us';
+  static const String register = 'register';
+  static const String IMAGE_URL = 'http://18.119.37.224/';
+  static const String bio = 'bio';
+  static const String hobbies = 'hobbies';
+  static const String job_title = 'job_title';
+  static const String job_experience = 'job_experience';
+  static const String airpot_code = ' airpot_code';
+  static const String gender = 'gender';
+  static const String valueChoose = 'valueChoose';
+  static const String blog_image = 'blogimage';
+  static const String blog_id = 'blogid';
+  static const String fullname = 'fullname';
+  static const String postcount = '_postcount';
+  static const String postid = '_post_id';
+  static const String image = 'image';
+  static const String image_path = 'image_path';
+  static const String post_text = 'post_text';
+}
